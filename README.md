@@ -1,1 +1,1 @@
-# document-scanner
+# secure-document-scanner
